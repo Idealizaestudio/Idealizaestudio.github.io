@@ -1125,6 +1125,9 @@ a {
   background-image: url("../../../assets/images/bg7-1920x1080.png");
 }
 .cid-tlhZqP1WXB .row {
+  flex-direction: row-reverse;
+}
+.cid-tlhZqP1WXB .row {
   align-items: center;
 }
 @media (max-width: 991px) {
