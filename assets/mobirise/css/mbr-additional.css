@@ -22,11 +22,11 @@ body {
 }
 .display-4 {
   font-family: 'Roboto Slab', serif;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.125rem;
+  font-size: 1.375rem;
 }
 .display-5 {
   font-family: 'Roboto Slab', serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.3 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.72rem;
-    font-size: calc( 0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.88rem;
+    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.44rem;
@@ -599,12 +599,12 @@ a:hover {
 }
 .form-control {
   font-family: 'Roboto Slab', serif;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.125rem;
+  font-size: 1.375rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -613,12 +613,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Roboto Slab', serif;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.125rem;
+  font-size: 1.375rem;
 }
 blockquote {
   border-color: #1f324d;
@@ -1119,9 +1119,65 @@ a {
 .cid-tbAWi7ae10 .mbr-section-btn {
   color: #fafafa;
 }
+.cid-tlhZqP1WXB {
+  padding-top: 2rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/bg7-1920x1080.png");
+}
+.cid-tlhZqP1WXB .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-tlhZqP1WXB .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tlhZqP1WXB .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-tlhZqP1WXB .mbr-text,
+.cid-tlhZqP1WXB .mbr-section-btn {
+  color: #48a4b7;
+  text-align: center;
+}
+.cid-tlhZqP1WXB .mbr-section-title {
+  color: #fafafa;
+  text-align: center;
+}
+.cid-trkeIFPzyO {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #fafafa;
+}
+@media (min-width: 1500px) {
+  .cid-trkeIFPzyO .container {
+    max-width: 1400px;
+  }
+}
+.cid-trkeIFPzyO .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #48a4b7;
+  margin-bottom: 2rem;
+}
+.cid-trkeIFPzyO .card-wrapper {
+  margin-top: 3rem;
+}
+.cid-trkeIFPzyO .row {
+  justify-content: center;
+}
+.cid-trkeIFPzyO .mbr-section-title {
+  color: #1f324d;
+}
+.cid-trkeIFPzyO .card-title,
+.cid-trkeIFPzyO .iconfont-wrapper {
+  color: #1f324d;
+}
 .cid-tbAT04ILbR {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #1f324d;
 }
 .cid-tbAT04ILbR .mbr-text,
@@ -1182,69 +1238,14 @@ a {
 .cid-tbAT04ILbR .mbr-section-subtitle {
   color: #fafafa;
 }
-.cid-tlhZqP1WXB {
-  padding-top: 0rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/bg7-1920x1080.png");
-}
-.cid-tlhZqP1WXB .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-tlhZqP1WXB .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tlhZqP1WXB .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-tlhZqP1WXB .mbr-text,
-.cid-tlhZqP1WXB .mbr-section-btn {
-  color: #48a4b7;
-  text-align: center;
-}
-.cid-tlhZqP1WXB .mbr-section-title {
-  color: #fafafa;
-}
-.cid-tkQ29YWYiw {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #fafafa;
-}
-@media (min-width: 1500px) {
-  .cid-tkQ29YWYiw .container {
-    max-width: 1400px;
-  }
-}
-.cid-tkQ29YWYiw .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #48a4b7;
-  margin-bottom: 2rem;
-}
-.cid-tkQ29YWYiw .card-wrapper {
-  margin-top: 3rem;
-}
-.cid-tkQ29YWYiw .row {
-  justify-content: center;
-}
-.cid-tkQ29YWYiw .mbr-section-title {
-  color: #1f324d;
-}
-.cid-tkQ29YWYiw .card-title,
-.cid-tkQ29YWYiw .iconfont-wrapper {
-  color: #1f324d;
-}
 .cid-tlbBoMCSoI {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #fafafa;
+  background-color: #1f324d;
   overflow: hidden;
 }
 .cid-tlbBoMCSoI .media-container-row .mbr-text {
-  color: #1f324d;
+  color: #fafafa;
 }
 .cid-tbBwmmKDbX .float {
   position: fixed;
