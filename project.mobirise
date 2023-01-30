@@ -67,19 +67,21 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/logo2_1.webp",
-    "mbrsiteDomain": "fvuscmbvmn",
+    "mbrsiteDomain": "2sacr601dd",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": false,
     "gdpr": false,
     "witsec-white-label": true,
     "uniqCompNum": 61,
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "cookiesAlert": false,
+    "google-analytics": "Gerando Leads Qualificados\nPara Acelerar Suas Vendas"
   },
   "pages": {
     "index.html": {
