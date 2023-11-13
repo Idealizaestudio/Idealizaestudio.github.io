@@ -19,27 +19,27 @@ body {
 }
 .display-4 {
   font-family: 'Roboto Slab', serif;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 1.125rem;
 }
 .display-5 {
   font-family: 'Roboto Slab', serif;
-  font-size: 1.8rem;
-  line-height: 1.5;
-}
-.display-5 > .mbr-iconfont {
-  font-size: 2.25rem;
-}
-.display-7 {
-  font-family: 'Roboto Flex', sans-serif;
   font-size: 1.4rem;
   line-height: 1.5;
 }
-.display-7 > .mbr-iconfont {
+.display-5 > .mbr-iconfont {
   font-size: 1.75rem;
+}
+.display-7 {
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+.display-7 > .mbr-iconfont {
+  font-size: 1.5rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -63,19 +63,19 @@ body {
     line-height: calc( 1.3 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.88rem;
-    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.72rem;
+    font-size: calc( 0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.44rem;
-    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
-  }
-  .display-7 {
     font-size: 1.12rem;
     font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
     line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+  }
+  .display-7 {
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -596,12 +596,12 @@ a:hover {
 }
 .form-control {
   font-family: 'Roboto Slab', serif;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 1.125rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -610,12 +610,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Roboto Slab', serif;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 1.125rem;
 }
 blockquote {
   border-color: #7fba6d;
@@ -705,7 +705,7 @@ a {
   transition: color 0.6s;
 }
 .cid-tbAWi7ae10 {
-  background-image: url("../../../assets/images/background-webp5.webp");
+  background-image: url("../../../assets/images/bg3-1920x1080.png");
   background-position: right;
 }
 .cid-tbAWi7ae10 .wrapper {
@@ -750,7 +750,7 @@ a {
   text-align: left;
 }
 .cid-tbAWi7ae10 H3 {
-  color: #70c656;
+  color: #48a4b7;
 }
 .cid-tbAWi7ae10 .mbr-text,
 .cid-tbAWi7ae10 .mbr-section-btn {
@@ -781,7 +781,7 @@ a {
 }
 .cid-tlhZqP1WXB .mbr-section-title {
   color: #fafafa;
-  text-align: center;
+  text-align: left;
 }
 .cid-trkeIFPzyO {
   padding-top: 0rem;
