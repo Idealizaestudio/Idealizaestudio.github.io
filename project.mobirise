@@ -67,8 +67,8 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/logo2_1.webp",
-    "mbrsiteDomain": "ighganjnig",
-    "imageResize": true,
+    "mbrsiteDomain": "nfz4yriirw",
+    "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -87,7 +87,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Idealiza Estúdio",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
