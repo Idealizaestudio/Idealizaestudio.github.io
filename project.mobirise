@@ -67,8 +67,8 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/logo2_1.webp",
-    "mbrsiteDomain": "nfz4yriirw",
-    "imageResize": false,
+    "mbrsiteDomain": "jkkkmil9dy",
+    "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
