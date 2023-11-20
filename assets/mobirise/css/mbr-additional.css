@@ -758,62 +758,6 @@ a {
 .cid-tbAWi7ae10 .mbr-section-btn {
   color: #fafafa;
 }
-.cid-tlhZqP1WXB {
-  padding-top: 2rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/bg-nb7.webp");
-}
-.cid-tlhZqP1WXB .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-tlhZqP1WXB .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tlhZqP1WXB .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-tlhZqP1WXB .mbr-text,
-.cid-tlhZqP1WXB .mbr-section-btn {
-  color: #48a4b7;
-  text-align: center;
-}
-.cid-tlhZqP1WXB .mbr-section-title {
-  color: #fafafa;
-  text-align: center;
-}
-.cid-trkeIFPzyO {
-  padding-top: 0rem;
-  padding-bottom: 3rem;
-  background-color: #fafafa;
-}
-@media (min-width: 1500px) {
-  .cid-trkeIFPzyO .container {
-    max-width: 1400px;
-  }
-}
-.cid-trkeIFPzyO .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #48a4b7;
-  margin-bottom: 2rem;
-}
-.cid-trkeIFPzyO .card-wrapper {
-  margin-top: 3rem;
-}
-.cid-trkeIFPzyO .row {
-  justify-content: center;
-}
-.cid-trkeIFPzyO .mbr-section-title {
-  color: #1f324d;
-}
-.cid-trkeIFPzyO .card-title,
-.cid-trkeIFPzyO .iconfont-wrapper {
-  color: #1f324d;
-}
 .cid-tbAT04ILbR {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -876,6 +820,62 @@ a {
 }
 .cid-tbAT04ILbR .mbr-section-subtitle {
   color: #fafafa;
+}
+.cid-tlhZqP1WXB {
+  padding-top: 2rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/bg-nb7.webp");
+}
+.cid-tlhZqP1WXB .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-tlhZqP1WXB .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tlhZqP1WXB .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-tlhZqP1WXB .mbr-text,
+.cid-tlhZqP1WXB .mbr-section-btn {
+  color: #48a4b7;
+  text-align: center;
+}
+.cid-tlhZqP1WXB .mbr-section-title {
+  color: #fafafa;
+  text-align: center;
+}
+.cid-trkeIFPzyO {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #fafafa;
+}
+@media (min-width: 1500px) {
+  .cid-trkeIFPzyO .container {
+    max-width: 1400px;
+  }
+}
+.cid-trkeIFPzyO .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #48a4b7;
+  margin-bottom: 2rem;
+}
+.cid-trkeIFPzyO .card-wrapper {
+  margin-top: 3rem;
+}
+.cid-trkeIFPzyO .row {
+  justify-content: center;
+}
+.cid-trkeIFPzyO .mbr-section-title {
+  color: #1f324d;
+}
+.cid-trkeIFPzyO .card-title,
+.cid-trkeIFPzyO .iconfont-wrapper {
+  color: #1f324d;
 }
 .cid-tlbBoMCSoI {
   padding-top: 30px;
