@@ -1018,32 +1018,3 @@ a {
   color: #f9f3dc;
   text-align: left;
 }
-.cid-txKzR3qPQF .float {
-  position: fixed;
-  width: 75px;
-  height: 75px;
-  bottom: 15px;
-  right: 10px;
-  background-color: #7fba6d;
-  color: #fafafa;
-  border-radius: 100px;
-  text-align: center;
-  font-size: 48px;
-  box-shadow: 2px 2px 3px #999;
-  z-index: 100;
-}
-.cid-txKzR3qPQF .my-float {
-  margin-top: 16px;
-}
-.cid-txKzR3qPQF P {
-  color: #232323;
-}
-.cid-txKzR3qPQF DIV {
-  color: #ffffff;
-}
-.cid-txKzR3qPQF H10 {
-  color: #767676;
-}
-.cid-txKzR3qPQF .hidden {
-  display: none;
-}
