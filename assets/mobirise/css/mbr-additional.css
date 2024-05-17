@@ -915,12 +915,15 @@ a {
 .cid-tbBwmmKDbX .hidden {
   display: none;
 }
-.cid-txKvYqfmHS {
+.cid-cELu2Ro9U4 {
   background-image: url("../../../assets/images/raucarias-1.webp");
 }
-.cid-txKvYqfmHS .mbr-section-title {
+.cid-cELu2Ro9U4 h1 {
   text-align: left;
-  color: #ffffff;
+}
+.cid-cELu2Ro9U4 span {
+  color: #000000;
+  background-color: #efefef;
 }
 .cid-txKw4Fwy69 {
   padding-top: 1rem;
