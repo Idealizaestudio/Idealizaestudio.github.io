@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "cabana.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -67,7 +67,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/logo2_1.webp",
-    "mbrsiteDomain": "x63ksvdekx",
+    "mbrsiteDomain": "ca3rwt3gf8",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -81,7 +81,8 @@
     "publishChangesOnly": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false,
-    "google-analytics": ""
+    "google-analytics": "",
+    "site_lang": "pt"
   },
   "pages": {
     "index.html": {
