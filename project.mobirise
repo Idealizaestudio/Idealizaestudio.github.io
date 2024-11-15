@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Beto.html",
+    "currentPage": "engbeto.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1497,9 +1497,9 @@
         }
       ]
     },
-    "Beto.html": {
+    "engbeto.html": {
       "settings": {
-        "title": "Beto",
+        "title": "Beto Illa Font ",
         "order": 1
       },
       "components": [
